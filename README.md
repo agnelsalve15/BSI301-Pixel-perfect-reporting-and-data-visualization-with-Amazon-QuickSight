@@ -11,4 +11,6 @@ The skills gained from this workshop are foundational for creating interactive a
 Files Included:
 PDF of the final visualizations
 
+![image](https://github.com/user-attachments/assets/4c4111f3-bce5-4b83-a3c5-11d8d4c225bc)
+
 
